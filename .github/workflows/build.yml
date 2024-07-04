@@ -12,7 +12,7 @@ concurrency:
   cancel-in-progress: true
 
 
-#test
+#test2
 
 jobs:
   # for Pull Request (exclude merged)
